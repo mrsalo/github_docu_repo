@@ -5,5 +5,6 @@ public class HelloMultiLanguage {
 		System.out.println("Hello World");
 		System.out.println("Hallo Welt");
 		System.out.println("Hola mundo");
+		System.out.println("Bonjour le monde");
 	}
 }
